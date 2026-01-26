@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+
+# Operator notes (keep local, do not commit)
+OPERATOR_NOTES.md
+
