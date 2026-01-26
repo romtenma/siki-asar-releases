@@ -1,15 +1,15 @@
 {
   "latest": {
-    "stable": "0.39.3"
+    "stable": "0.38.8"
   },
   "apps": [
     {
-      "version": "0.39.3",
-      "tag": "v0.39.3",
-      "asset": "siki-0.39.3.asar",
-      "asarSha512": "OrGPaqqM8oHH2Y/hd3ExjuuMkmsSa/Y/nZuXqYEH0y6IQsUTzfGOawlNLPE+uv/sSgT5eCCj2qklETShpU1JbA==",
-      "asarSize": 10636344,
-      "electronVersion": "39.2.7",
+      "version": "0.38.8",
+      "tag": "v0.38.8",
+      "asset": "siki-0.38.8.asar",
+      "asarSha512": "Gk1D5vzCKlKCxCb4THRzY9ZtesSS/9eBS3D5Ffybo13fPUbO6ijoThdgVG+PibcejZjg7HTcODeqDFbhSRtsgg==",
+      "asarSize": 10408905,
+      "electronVersion": "38.7.1",
       "supportedPlatforms": [
         "win32",
         "linux",
