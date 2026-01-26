@@ -1,4 +1,21 @@
 {
-  "latest": {},
-  "apps": []
+  "latest": {
+    "stable": "0.39.3"
+  },
+  "apps": [
+    {
+      "version": "0.39.3",
+      "tag": "v0.39.3",
+      "asset": "siki-0.39.3.asar",
+      "asarSha512": "OrGPaqqM8oHH2Y/hd3ExjuuMkmsSa/Y/nZuXqYEH0y6IQsUTzfGOawlNLPE+uv/sSgT5eCCj2qklETShpU1JbA==",
+      "asarSize": 10636344,
+      "electronVersion": "39.2.7",
+      "supportedPlatforms": [
+        "win32",
+        "linux",
+        "darwin"
+      ],
+      "notes": ""
+    }
+  ]
 }
