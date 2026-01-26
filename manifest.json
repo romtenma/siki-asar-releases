@@ -1,6 +1,6 @@
 {
   "latest": {
-    "stable": "0.38.8"
+    "stable": "0.37.9"
   },
   "apps": [
     {
@@ -24,6 +24,20 @@
       "asarSha512": "Gk1D5vzCKlKCxCb4THRzY9ZtesSS/9eBS3D5Ffybo13fPUbO6ijoThdgVG+PibcejZjg7HTcODeqDFbhSRtsgg==",
       "asarSize": 10408905,
       "electronVersion": "38.7.1",
+      "supportedPlatforms": [
+        "win32",
+        "linux",
+        "darwin"
+      ],
+      "notes": ""
+    },
+    {
+      "version": "0.37.9",
+      "tag": "v0.37.9",
+      "asset": "siki-0.37.9.asar",
+      "asarSha512": "N8pxMgcK2RwqvDLhhdKZd1sDSDolCAALmOnj063wKHLyUB4ruJ58UjyvBvhxxLl+c0F9+aPx8VvcoRWsHXMllQ==",
+      "asarSize": 10279096,
+      "electronVersion": "37.5.1",
       "supportedPlatforms": [
         "win32",
         "linux",
