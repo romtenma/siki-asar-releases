@@ -72,6 +72,20 @@
         "darwin"
       ],
       "notes": ""
+    },
+    {
+      "version": "0.39.3",
+      "tag": "v0.39.3",
+      "asset": "siki-0.39.3.asar",
+      "asarSha512": "y6xwok7/SIZjkM9aOPsZw98ow5zQaom2gr10/Y9kKLliivUljHJTC/4d4yNK56KfScbkeiAUOE2s+G2NfxVE1w==",
+      "asarSize": 10631176,
+      "electronVersion": "39.3.0",
+      "supportedPlatforms": [
+        "win32",
+        "linux",
+        "darwin"
+      ],
+      "notes": ""
     }
   ]
 }
