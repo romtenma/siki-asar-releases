@@ -1,16 +1,16 @@
 {
   "latest": {
-    "stable": "0.41.0",
+    "stable": "0.41.1",
     "beta": "0.41.0-beta.1"
   },
   "apps": [
     {
-      "version": "0.41.0",
-      "tag": "v0.41.0",
-      "asset": "siki-0.41.0.asar",
-      "asarSha512": "/7G/XT+/6oagYt7b5FF+1Q5g2mAsfb2e2mMBQ8ISra5eHcTwjlVrtdgQ8e13RZaDeP5PGyTOqPlCWxuI8VgIKA==",
-      "asarSize": 10858577,
-      "electronVersion": "41.3.0",
+      "version": "0.41.1",
+      "tag": "v0.41.1",
+      "asset": "siki-0.41.1.asar",
+      "asarSha512": "GdqwmFwhTTXuUvdW3oYW0sEtwOkgYLnHyqBrccA1j8F5Q389kGg1C3BdTn0RGlw0pjaHct/f8HKCueXxLwh/oQ==",
+      "asarSize": 10920294,
+      "electronVersion": "41.4.0",
       "supportedPlatforms": [
         "win32",
         "linux",
@@ -24,6 +24,20 @@
       "asset": "siki-0.41.0-beta.1.asar",
       "asarSha512": "DyCnKVHiy3g8C4UES6DhkKg8/+D2kGo4QNlTW+js22pz/tfTz31YfQ2jO2yBJ6IJAeHtsJm+t9GWZHHYYfe5Cw==",
       "asarSize": 11179389,
+      "electronVersion": "41.3.0",
+      "supportedPlatforms": [
+        "win32",
+        "linux",
+        "darwin"
+      ],
+      "notes": ""
+    },
+    {
+      "version": "0.41.0",
+      "tag": "v0.41.0",
+      "asset": "siki-0.41.0.asar",
+      "asarSha512": "/7G/XT+/6oagYt7b5FF+1Q5g2mAsfb2e2mMBQ8ISra5eHcTwjlVrtdgQ8e13RZaDeP5PGyTOqPlCWxuI8VgIKA==",
+      "asarSize": 10858577,
       "electronVersion": "41.3.0",
       "supportedPlatforms": [
         "win32",
